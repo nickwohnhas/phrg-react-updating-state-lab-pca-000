@@ -39,3 +39,4 @@ You can only count so many jumps, hula-hoop rotations, and hot dogs being devour
 
 ## Resources
 - [React: `setState`](https://facebook.github.io/react/docs/component-api.html#setstate)
+<p data-visibility='hidden'>PHRG React Updating State Lab</p>
